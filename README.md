@@ -1,4 +1,4 @@
-# LLMTrust Layer
+# LLMTrust Layer (A LLM Security Evaluation Framework - LSEF) 
 
 ![LLMTrust Layer Banner](assets/banner.png)
 
