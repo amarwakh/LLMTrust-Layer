@@ -1,6 +1,6 @@
-# Using LSEF in Your Organisation
+# Using LLMTrust Layer (A LLM Security Evaluation Framework - LSEF) in Your Organisation
 
-This guide covers everything your team needs to adopt the LLM Security Evaluation Framework — from a single practitioner reading files on GitHub to a full organisational deployment with automated documentation builds and integrated security review workflows.
+This guide covers everything your team needs to adopt the LLM Security Evaluation Framework (LSEF) — from a single practitioner reading files on GitHub to a full organisational deployment with automated documentation builds and integrated security review workflows.
 
 Choose the adoption path that matches your team's size, tooling maturity, and how seriously you want to embed LLM security into your development lifecycle.
 
