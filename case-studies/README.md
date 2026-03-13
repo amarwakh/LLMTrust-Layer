@@ -6,4 +6,4 @@ Real-world security engineering scenarios illustrating how the LSEF framework ap
 |-----------|--------|------------|
 | [CS-01: GenAI-Powered Security Escalation Triage](cs-01-llm-powered-escalation-triage.md) | Security Operations | Prompt injection in security tooling, human-in-the-loop design, model calibration |
 | [CS-02: GovCloud Region Review Automation](cs-02-govcloud-region-review-automation.md) | Regulated Cloud Security | FedRAMP compliance automation, RAG corpus integrity, structured output as injection defence |
-| [CS-03: Data Services Customer Escalation](cs-03-data-services-customer-escalation.md) | Incident Response | Dependency graph mapping, data classification frameworks, customer communication under uncertainty |
+
