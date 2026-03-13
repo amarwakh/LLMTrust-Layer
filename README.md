@@ -183,9 +183,9 @@ This work is licensed under [Creative Commons Attribution 4.0 International (CC 
 
 <img src="assets/logo.png" width="80" align="left" style="margin-right: 16px; margin-bottom: 8px;">
 
-**Amar Wakharkar** — Security Engineering Leader with 17 years of experience, including leading product security for AWS data services (Amazon OpenSearch, AWS Glue, Lake Formation, Athena, EMR) and managing GenAI security programs across 218 security engineers at Amazon. The threat categories, evaluation checklists, risk scoring model, and case studies in this framework reflect real security engineering decisions made on production systems at hyperscale.
+**Amar Wakharkar** — Security Engineering Leader with 17 years of experience leading product security, including security automation. The threat categories, evaluation checklists, risk scoring model, and case studies in this framework reflect security engineering decisions made on production systems at hyperscale.
 
-[LinkedIn](https://www.linkedin.com/in/amarwakh) · [GitHub](https://github.com/amarwakh)
+[LinkedIn](https://www.linkedin.com/in/amarwakharkar/) · [GitHub](https://github.com/amarwakh)
 
 <br clear="left"/>
 
