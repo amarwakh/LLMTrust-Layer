@@ -18,7 +18,7 @@ Most organisations deploying GenAI today are making security decisions without s
 
 This framework was developed from the experience of leading GenAI security programs across large engineering organisations — evaluating security risks in production LLM deployments, designing security tooling for AI-powered workflows, and building the evaluation criteria that allowed security teams to assess GenAI risk consistently at scale.
 
-It is not academic. Every threat category, checklist item, and mitigation pattern here emerged from real security engineering work on real systems.
+It is not academic. Every threat category, checklist item, and mitigation pattern here emerged from security engineering work on enterprise systems.
 
 ---
 
