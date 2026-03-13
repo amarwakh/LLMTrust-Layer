@@ -2,8 +2,8 @@
 
 **System Type:** Type B (Internal LLM Platform) / Type A (LLM-as-Feature)
 **Domain:** Security Operations
-**Scale:** Large engineering organisation (200+ security engineers)
-**Outcome:** ~60% reduction in investigation time per escalation
+**Scale:** Large engineering organisation 
+**Outcome:** reduction in investigation time per escalation
 
 ---
 
@@ -135,7 +135,7 @@ Every override of the LLM's recommendation by a human engineer is a data point. 
 ## Outcome
 
 Post-deployment measurement at 90 days:
-- Mean investigation time per escalation: reduced by approximately 60% (from ~5 hours to ~2 hours)
+- Mean investigation time per escalation: reduced by approximately X% (from ~6 hours to ~3 hours)
 - Routing accuracy (human agreement with LLM routing recommendation): 87%
 - Critical escalation misclassification rate: 0% (all critical escalations correctly flagged)
 - Engineer-reported confidence in LLM recommendations: 4.1/5.0
