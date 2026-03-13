@@ -76,7 +76,7 @@ LLMTrust-Layer/
 ├── case-studies/
 │   ├── README.md
 │   ├── cs-01-llm-powered-escalation-triage.md
-│   ├── cs-02-rag-sensitive-data-exposure.md
+│   ├── cs-02-govcloud-region-review-automation.md
 │   └── cs-03-agentic-security-review-automation.md
 │
 └── assets/
