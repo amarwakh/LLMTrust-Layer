@@ -2,18 +2,18 @@
 
 **System Type:** Type A (LLM-as-Feature) / Type B (Internal Security Platform)
 **Domain:** Regulated Cloud Security — FedRAMP, GovCloud, Sovereign Deployments
-**Scale:** 77+ region reviews processed; ~64 engineering hours/month saved
+**Scale:** X region reviews processed; X engineering hours/month saved
 **Outcome:** Automated security review pipeline for GovCloud, Opt-In, and China region deployments with sustained security bar compliance
 
 ---
 
 ## Background
 
-AWS services that want to expand into regulated deployment environments — GovCloud (US-East and US-West), Opt-In regions, and China (Beijing and Ningxia operated by NWCD) — must pass a region review process before they can operate in those environments. These reviews exist because regulated deployments carry additional compliance obligations: FedRAMP High/Moderate authorisation for GovCloud, China-specific data residency and cybersecurity law requirements, and Opt-In region-specific data sovereignty controls.
+Services that want to expand into regulated deployment environments — GovCloud (US-East and US-West), Opt-In regions, and China (Beijing and Ningxia operated by NWCD) — must pass a region review process before they can operate in those environments. These reviews exist because regulated deployments carry additional compliance obligations: FedRAMP High/Moderate authorisation for GovCloud, China-specific data residency and cybersecurity law requirements, and Opt-In region-specific data sovereignty controls.
 
 Each region review requires the service team to demonstrate that their architecture, data handling, access controls, encryption posture, and operational procedures meet the bar for the target environment. Reviews are conducted by security engineers who evaluate the service's security design against environment-specific control requirements.
 
-The bottleneck: as AWS's service portfolio grew, region review volume exceeded the capacity of security engineers to process them manually at the required quality level and speed. Reviews were queuing. Service teams were waiting weeks for security clearance to expand into regulated environments. The security team was spending significant engineering hours on reviews that followed highly repeatable evaluation patterns.
+The bottleneck: as Organization service portfolio grew, region review volume exceeded the capacity of security engineers to process them manually at the required quality level and speed. Reviews were queuing. Service teams were waiting weeks for security clearance to expand into regulated environments. The security team was spending significant engineering hours on reviews that followed highly repeatable evaluation patterns.
 
 **The problem was not judgment capacity — it was throughput on repeatable evaluation work.**
 
@@ -34,7 +34,7 @@ Region Review Submission (Service Team)
          ▼
    Control Requirement Lookup (RAG)
    ├── FedRAMP control baseline (High / Moderate / Low)
-   ├── GovCloud-specific AWS service restrictions
+   ├── GovCloud-specific service restrictions
    ├── China region data residency requirements
    ├── Opt-In region sovereignty controls
    └── Historical review decisions for similar service architectures
