@@ -1,4 +1,4 @@
-# LLMTrust Layer (A LLM Security Evaluation Framework - LSEF) 
+# LLMTrust Layer (A LLM Security Evaluation Framework - LSEF) and AISPM Tool
 
 ![LLMTrust Layer Banner](assets/banner.png)
 
@@ -115,6 +115,13 @@ Apply the scoring model in [`risk-scoring/risk-scoring-model.md`](risk-scoring/r
 ### Step 5 — Apply Mitigations
 
 Use [`mitigations/`](mitigations/) to identify and implement controls that address your highest-scoring risks.
+
+### Step 6 — Use Zero Install AISPM Tool 
+
+Download AISPM.html from the tools/ folder in LLMTrust-Layer. 
+No Install Required
+Download [AISPM.html](tools/AISPM.html) and open in any browser.
+Requires internet access for API calls to your LLM Provider.
 
 ---
 
